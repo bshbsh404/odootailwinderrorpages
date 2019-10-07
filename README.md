@@ -8,7 +8,7 @@ Tailwind error pages for odoo website based on https://github.com/sschoger/larav
                 404 Error based on <a href="https://github.com/sschoger/laravel-error-pages">laravel error pages</a>
             </p>
         <div class="oe_row_img oe_centered oe_mt32">
-           <img src="https://github.com/bshbsh404/odoo-tailwind-error-pages/odoo-tailwind-error-pages/blob/master/images/Screenshot_2.png" />
+           <img src="https://raw.githubusercontent.com/bshbsh404/odoo-tailwind-error-pages/master/odoo-tailwind-error-pages/images/Screenshot_2.png" />
         </div>
     </div>
 </section>
@@ -20,7 +20,7 @@ Tailwind error pages for odoo website based on https://github.com/sschoger/larav
                 403 Error based on <a href="https://github.com/sschoger/laravel-error-pages">laravel error pages</a>
             </p>
         <div class="oe_row_img oe_centered oe_mt32">
-            <img src="https://github.com/bshbsh404/odoo-tailwind-error-pages/odoo-tailwind-error-pages/blob/master/images/Screenshot_3.png" />
+            <img src="https://raw.githubusercontent.com/bshbsh404/odoo-tailwind-error-pages/master/odoo-tailwind-error-pages/images/Screenshot_3.png" />
         </div>
     </div>
 </section>
@@ -32,7 +32,7 @@ Tailwind error pages for odoo website based on https://github.com/sschoger/larav
                 500 Error based on <a href="https://github.com/sschoger/laravel-error-pages">laravel error pages</a>
             </p>
         <div class="oe_row_img oe_centered oe_mt32">
-            <img src="https://github.com/bshbsh404/odoo-tailwind-error-pages/odoo-tailwind-error-pages/blob/master/images/Screenshot_1.png" />
+            <img src="https://raw.githubusercontent.com/bshbsh404/odoo-tailwind-error-pages/master/odoo-tailwind-error-pages/images/Screenshot_1.png" />
         </div>
     </div>
 </section>
