@@ -1,7 +1,7 @@
 {
     'name': 'Tailwind Website Error Pages',
     'category': 'Website',
-    'author': 'Bashir Hassan',
+    'author': 'Root404',
     'website': 'https://www.app-ness.com',
     'summary': 'Style Odoo website errors based on Tailwind.',
     'depends': ['website', 'base'],
