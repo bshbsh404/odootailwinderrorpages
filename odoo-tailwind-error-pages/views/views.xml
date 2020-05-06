@@ -1,7 +1,7 @@
 <odoo>
     <template id="404" inherit_id="website.404">
         <xpath expr="//div[hasclass('container')]" position="replace">
-            <link rel="stylesheet" href="/friendly_website_errors/static/src/styles.css"/>
+            <link rel="stylesheet" href="/odoo-tailwind-error-pages/static/src/styles.css"/>
              <style>
       html {
         line-height: 1.15;
@@ -457,7 +457,7 @@
         </div>
       </div>
       <div class="relative pb-full md:flex md:pb-0 md:min-h-screen w-full md:w-1/2">
-        <div style="background-image: url('/friendly_website_errors/static/images/404-illustration.svg');" class="absolute pin bg-cover bg-no-repeat md:bg-left lg:bg-center">
+        <div style="background-image: url('/odoo-tailwind-error-pages/static/images/404-illustration.svg');" class="absolute pin bg-cover bg-no-repeat md:bg-left lg:bg-center">
         </div>
       </div>
     </div>
@@ -467,7 +467,7 @@
 
      <template id="403" inherit_id="website.403">
         <xpath expr="//div[hasclass('container')]" position="replace">
-            <link rel="stylesheet" href="/friendly_website_errors/static/src/styles.css"/>
+            <link rel="stylesheet" href="/odoo-tailwind-error-pages/static/src/styles.css"/>
              <style>
       html {
         line-height: 1.15;
@@ -923,7 +923,7 @@
         </div>
       </div>
       <div class="relative pb-full md:flex md:pb-0 md:min-h-screen w-full md:w-1/2">
-        <div style="background-image: url('/friendly_website_errors/static/images/403-illustration.svg');" class="absolute pin bg-cover bg-no-repeat md:bg-right lg:bg-center">
+        <div style="background-image: url('/odoo-tailwind-error-pages/static/images/403-illustration.svg');" class="absolute pin bg-cover bg-no-repeat md:bg-right lg:bg-center">
         </div>
       </div>
     </div>
@@ -933,7 +933,7 @@
 
      <template id="500" inherit_id="website.500">
         <xpath expr="//div[@id='wrapwrap']/main/div[hasclass('oe_structure')]" position="replace">
-            <link rel="stylesheet" href="/friendly_website_errors/static/src/styles.css"/>
+            <link rel="stylesheet" href="/odoo-tailwind-error-pages/static/src/styles.css"/>
                <style>
       html {
         line-height: 1.15;
@@ -1390,7 +1390,7 @@
         </div>
       </div>
       <div class="relative pb-full md:flex md:pb-0 md:min-h-screen w-full md:w-1/2">
-        <div style="background-image: url('/friendly_website_errors/static/images/500-illustration.svg');" class="absolute pin bg-cover bg-no-repeat md:bg-right lg:bg-center">
+        <div style="background-image: url('/odoo-tailwind-error-pages/static/images/500-illustration.svg');" class="absolute pin bg-cover bg-no-repeat md:bg-right lg:bg-center">
         </div>
       </div>
     </div>
