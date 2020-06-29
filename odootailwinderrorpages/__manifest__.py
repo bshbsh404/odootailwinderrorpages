@@ -3,7 +3,7 @@
     'category': 'Website',
     'author': 'Root404',
     'summary': 'Style Odoo website errors based on Tailwind.',
-    'depends': ['website', 'base'],
+    'depends': ['website', 'http_routing', 'base'],
     'images': ['images/Screenshot_1.png','images/Screenshot_2.png','images/Screenshot_3.png',],
     'data': [
         'views/views.xml',
